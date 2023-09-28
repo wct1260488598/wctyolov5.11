@@ -26,11 +26,11 @@ The self-supervised model's attention is focused on the key parts of the scene o
     <img src="vss.png" height="500px" />
 </div>
 
-### State Farm Pre-trained Model
+### YOLOv5.11 Model
 
-| name | pre-train epochs | pre-train resolution | fine-tune resolution | acc@1 | pre-trained model |
+| name | train epochs | input resolution | output resolution | acc@1 | model |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| SLDDBD-Base | 110 | 224x224 | 224x224 | 84.92 | [google](https://drive.google.com/file/d/1Cy7XrFERX-2W6I9hS7r2WGZoiG0b3e49/view?usp=sharing)/[config](configs/SLDDBD_patchsize32_swin_ratio0.5_img224_statefarm_110ep.yaml) | 
+| YOLOv5.11 | 200 | 224x224 | 224x224 | 84.92 | [config](configs/SLDDBD_patchsize32_swin_ratio0.5_img224_statefarm_110ep.yaml) | 
 
 ### ImageNet-1K Pre-trained Model
 

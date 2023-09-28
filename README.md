@@ -14,7 +14,7 @@ More detailed can be found in [github](https://github.com/ultralytics/yolov5) co
 
 ## Main Results
 
-In this work, four models were compared for their performance over different epochs. Improved+DA exhibited the fastest convergence and the highest accuracy at each epoch, achieving 78% accuracy by the 10th epoch and a final accuracy of 99.60%. Conversely, the ViT model, despite fast convergence, only managed a final accuracy of 74.35%. The Improved model consistently surpassed the baseline, underscoring the benefits of optimization.
+Now, this code don't have a complent results.
 
 <div align="center">
     <img src="acdm.png" height="500px" />

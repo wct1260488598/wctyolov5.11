@@ -8,9 +8,9 @@
 
 ## Introduction
 
-In this work, we proposed a novel method for driver distraction behavior detection, termed as **SL-DDBD**. Self-supervised learning framework for masked image modeling. The structure-improved swin transformer was used as an encoder. Extended SF3 dataset using multiple methods of data augmentation strategies. Selected the best masking strategy.
+Just a easy test
 
-More detailed can be found in our [arxiv](https://arxiv.org/ftp/arxiv/papers/2306/2306.00543.pdf) paper.
+More detailed can be found in [github](https://github.com/ultralytics/yolov5) code.
 
 ## Main Results
 

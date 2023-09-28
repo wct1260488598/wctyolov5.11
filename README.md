@@ -1,6 +1,6 @@
-# SL-DDBD
+# wctYOLOv5.11
 
-### SL-DDBD: A Novel Driver Distraction Behavior Detection Method Based on Self-supervised Learning with Masked Image Modeling
+### YOLOv5.11 of wct
 
 
 

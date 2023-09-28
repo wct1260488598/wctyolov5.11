@@ -30,7 +30,7 @@ The self-supervised model's attention is focused on the key parts of the scene o
 
 | name | train epochs | input resolution | output resolution | acc@1 | model |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| YOLOv5.11 | 200 | 224x224 | 224x224 | 84.92 | [models](models/yolov5s.yaml) | 
+|  YOLOv5.11  | 200 | 640x640 | 640x640 |  91.92  | [models](models/yolov5s.yaml) | 
 
 ### ImageNet-1K Pre-trained Model
 

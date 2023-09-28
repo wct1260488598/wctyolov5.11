@@ -22,7 +22,9 @@ Now, this code don't have a complent results.
 
 The self-supervised model's attention is focused on the key parts of the scene objects and has a better grasp of the feature information, avoiding the problem of feature redundancy and excessive computational costs.
 
-![vss](vss.png)
+<div align="center">
+    <img src="vss.png" height="500px" />
+</div>
 
 ### State Farm Pre-trained Model
 
